@@ -1,0 +1,14 @@
+Actúa como un entrevistador técnico senior de Google.
+Revisa la siguiente solución en Java escrita por el usuario para este problema de LeetCode:
+
+--- PROBLEMA ---
+{description}
+
+--- CÓDIGO DEL USUARIO (Solution.java) ---
+{user_code}
+
+Por favor evalúa:
+1. Complejidad temporal y espacial (Big-O). ¿Es óptima?
+2. Casos esquina (edge cases) que podrían fallar.
+3. Calidad del código, buenas prácticas en Java moderno y sugerencias de mejora puntuales.
+Sé directo, constructivo y claro.

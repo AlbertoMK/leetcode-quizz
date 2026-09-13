@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java compiled class files
+*.class
+
+# User configuration and personal credentials
+config.json
+
+# Problem data, user solutions, hints log, test cases
+problems/*
+!problems/.gitkeep
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db

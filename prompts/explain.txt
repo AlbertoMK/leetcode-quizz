@@ -1,0 +1,8 @@
+Explica de manera intuitiva y visual (en español) cómo abordar este problema de LeetCode:
+
+{description}
+
+Explica:
+1. Qué nos pide exactamente el problema en palabras sencillas.
+2. La idea de fuerza bruta (por qué es lenta).
+3. El salto intuitivo al enfoque óptimo paso a paso.

@@ -1,0 +1,8 @@
+Genera la solución óptima en Java para este problema de LeetCode:
+
+{description}
+
+Requisitos:
+- Código completo de la clase Solution listo para pegar.
+- Comentarios explicando las líneas clave.
+- Mención de la complejidad temporal y espacial Big-O.
